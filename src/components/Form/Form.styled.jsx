@@ -21,7 +21,7 @@ export const FormBox = styled(Form)`
 export const InputName = styled(Field)`
   padding: 0 20px;
   margin-bottom: 10px;
-  background: #e9eff6;
+  background: gray;
   line-height: 40px;
   border-width: 0;
   border-radius: 5px;

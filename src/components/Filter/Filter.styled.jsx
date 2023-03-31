@@ -5,9 +5,8 @@ export const LabelFilter = styled.label`
   justify-content: center;
   align-items: center;
   & span {
-    margin-right: 10px;
-    font-size: 18px;
-    text-shadow: 3px 5px 2px #474747;
+    margin-left: 10px;
+    font-size: 20px;
   }
 `;
 
@@ -16,8 +15,7 @@ export const InputFilter = styled.input`
   background: #e9eff6;
   line-height: 40px;
   border-width: 0;
-  border-radius: 20px;
+  border-radius: 5px;
   font-family: 'Roboto', sans-serif;
-  font-style: italic;
   font-size: 18px;
 `;

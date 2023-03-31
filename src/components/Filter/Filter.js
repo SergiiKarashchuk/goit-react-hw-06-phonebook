@@ -13,13 +13,13 @@ const Filter = () => {
 
   return (
     <LabelFilter>
-      <span>Find contacts by name</span>
       <InputFilter
         type="text"
         name="filter"
         value={filter}
         onChange={handleInputChange}
       />
+      <span>Find contacts by name</span>
     </LabelFilter>
   );
 };
