@@ -13,6 +13,7 @@ export const AppBox = styled.div`
   background-color: gray;
   & h1,
   h2 {
+    margin: 0;
     color: #ffffff;
   }
 `;
